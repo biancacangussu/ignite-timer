@@ -6,8 +6,6 @@ import {
   StartCountdownButton,
   StopCountdownButton,
 } from './styles'
-
-import { NewCycleForm } from './components/NewCycleForm'
 import { Countdown } from './components/Countdown'
 
 interface Cycle {
